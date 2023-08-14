@@ -57,8 +57,11 @@ so I tried hard to do as he says, and guess what!!! I did it ^_^...
 ## The database : 
 
 my database has three columns: 
+
                - id --> unique value that shows how many records have been saved in the database.
+               
                - time --> the time it was spoken.
+               
                - text --> text that you spoke.
                
   <img width="960" alt="image" src="https://github.com/shahad23abdullah/Speech-To-Text/assets/139658520/133f793c-5e3f-49ce-9be3-507ddb3d0d44">
