@@ -1,7 +1,7 @@
 # Speech-To-Text
 
 ## about : 
-this mission is  to create a webpage that converts  speech  to text and saves the text in the database...
+this mission is to create a webpage that converts speech to text and saves the text in the database...
 
  this is what we shall do :
  
@@ -16,7 +16,7 @@ here I was trying to test it, and now this is the result "I was saying hi and he
 
 ## The beginning:
 
-when E.wesam give us this mission said that We are supposed to make it without a button and when the webpage converts some word it is supposed to  process the words and display an appropriate advertisement for the word that was heard... 
+when E.wesam give us this mission he said that We are supposed to make it without a button and when the webpage converts some word it is supposed to process the words and display an appropriate advertisement for the word that was heard... 
 so I tried hard to do as he says, and guess what!!! I did it ^_^...
 
 
@@ -29,41 +29,41 @@ so I tried hard to do as he says, and guess what!!! I did it ^_^...
 
 <img width="960" alt="image" src="https://github.com/shahad23abdullah/Speech-To-Text/assets/139658520/6f253a11-ab61-41f7-a60f-66dfad8b8f6b">
 
-3. then it will show your word on the same page , Unfortunately, this page just works in google chrome .
+3. then it will show your word on the same page, Unfortunately, this page just works in google chrome.
 
    <img width="960" alt="image" src="https://github.com/shahad23abdullah/Speech-To-Text/assets/139658520/2d361e54-421b-4f2e-8398-bd206d9376cb">
 
 4.   I made it more interactive:
-   - like when you say " what is your name" it will responsed by it's name :
+   - like when you say "What is your name" it will respond by its name :
      
      <img width="960" alt="image" src="https://github.com/shahad23abdullah/Speech-To-Text/assets/139658520/2d361e54-421b-4f2e-8398-bd206d9376cb">
      
-   - when you say the word "pant" it will open a new window that display so many pants in **namshi**:
+   - when you say the word "pant" it will open a new window that displays so many pants in **namshi**:
 
       <img width="960" alt="image" src="https://github.com/shahad23abdullah/Speech-To-Text/assets/139658520/2d361e54-421b-4f2e-8398-bd206d9376cb">
       <img width="960" alt="image" src="https://github.com/shahad23abdullah/Speech-To-Text/assets/139658520/a195618a-356f-44e8-8c2f-1c379b5f33c1">
 
-   - when you say " fat" or "diet" it will open website **drnutrition** it has so many things for diet like snacks , Protein powder,etc...:
+   - when you say " fat" or "diet" it will open the website **dr nutrition** it has so many things for a diet like snacks, Protein powder, etc...:
 
      <img width="960" alt="image" src="https://github.com/shahad23abdullah/Speech-To-Text/assets/139658520/0178fa13-1c08-4e59-824c-543e9d578cf7">
 <img width="960" alt="image" src="https://github.com/shahad23abdullah/Speech-To-Text/assets/139658520/e76e043b-bbc3-4f4a-9f86-9e095a0064e9">
 
-   - when you say " shoes" it will open **nike** website , Nike is best known for its footwear, apparel, and equipment:
+   - when you say " shoes" it will open **Nike** website, Nike is best known for its footwear, apparel, and equipment:
 
      <img width="960" alt="image" src="https://github.com/shahad23abdullah/Speech-To-Text/assets/139658520/a938b5e1-b01d-444c-bd06-ac9df0f63f67">
 <img width="960" alt="image" src="https://github.com/shahad23abdullah/Speech-To-Text/assets/139658520/f4edab62-0ef3-4b88-a091-11df9624cdf2">
 
 
-## the database : 
+## The database : 
 
-my database have three columen : 
-               - id --> uniqe value that show how many recored been saved in the database.
+my database has three columns: 
+               - id --> unique value that shows how many records have been saved in the database.
                - time --> the time it was spoken.
-               - text --> text that you spoken.
+               - text --> text that you spoke.
                
   <img width="960" alt="image" src="https://github.com/shahad23abdullah/Speech-To-Text/assets/139658520/133f793c-5e3f-49ce-9be3-507ddb3d0d44">
 
 ## Conclusion:
-In conclusion, I would like to say that I enjoyed every minute of this work, that time passed so quickly that I could not imagine, and how wonderful it was to work on such a project..
-not just me enjoyed this ptoject , even my family enjoy it.
-y
+In conclusion, I would like to say that I enjoyed every minute of this work, that time passed so quickly , and how wonderful it was to work on such a project.
+not just me enjoyed this project, even my family enjoy it.
+
