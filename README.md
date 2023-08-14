@@ -68,5 +68,6 @@ my database has three columns:
 
 ## Conclusion:
 In conclusion, I would like to say that I enjoyed every minute of this work, that time passed so quickly , and how wonderful it was to work on such a project.
-not just me enjoyed this project, even my family enjoy it.
+
+not just me enjoyed this project, even my family enjoy with the result.
 
